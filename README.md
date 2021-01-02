@@ -1,0 +1,2 @@
+# HelloPyinstaller_EXE
+使用pyinstaller打包的exe 代码就是一行helloworld 学习
